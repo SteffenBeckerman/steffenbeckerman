@@ -3,30 +3,30 @@
 # was ist derzeit nachgefragt?
 
 
-Windows / Active Directory	                🔥🔥🔥	sehr hoch	absolut
-Netzwerke / TCP-IP / VLAN / DHCP / DNS	    🔥🔥🔥	sehr hoch	absolut
-IT-Support / Fehlerbehebung	                🔥🔥🔥	sehr hoch	absolut
-Microsoft 365 / Entra ID	                  🔥🔥🔥	sehr hoch	sehr interessant
-Azure / Cloud-Grundlagen	                    🔥🔥	hoch	AZ-900 sinnvoll
-PowerShell	                                  🔥🔥	hoch	sehr guter Hebel
-Virtualisierung VMware/Hyper-V	              🔥🔥	hoch	sinnvoll
-IT-Sicherheit	                                🔥🔥	hoch	Grundlagen reichen zunächst
-Linux	                                        🔥🔥	mittel–hoch	behalten
-Backup / Speicher / USV	                      🔥🔥	mittel–hoch	praktisch wichtig
-Python	                                         🔥	mittel	als Automation-Zusatz
-Cisco/CCNA-Themen	                            🔥🔥	mittel–hoch	gute Ergänzung
-Maschinelles Lernen / Datenwissenschaft	        🔥	niedrig, für FISI	nicht priorisieren
-Arduino/ESP32	                                  🔥	niedrig	schönes Portfolio-Projekt
+<br>Windows / Active Directory	                🔥🔥🔥	sehr hoch	absolut
+<br>Netzwerke / TCP-IP / VLAN / DHCP / DNS	    🔥🔥🔥	sehr hoch	absolut
+<br>IT-Support / Fehlerbehebung	                🔥🔥🔥	sehr hoch	absolut
+<br>Microsoft 365 / Entra ID	                  🔥🔥🔥	sehr hoch	sehr interessant
+<br>Azure / Cloud-Grundlagen	                    🔥🔥	hoch	AZ-900 sinnvoll
+<br>PowerShell	                                  🔥🔥	hoch	sehr guter Hebel
+<br>Virtualisierung VMware/Hyper-V	              🔥🔥	hoch	sinnvoll
+<br>IT-Sicherheit	                                🔥🔥	hoch	Grundlagen reichen zunächst
+<br>Linux	                                        🔥🔥	mittel–hoch	behalten
+<br>Backup / Speicher / USV	                      🔥🔥	mittel–hoch	praktisch wichtig
+<br>Python	                                         🔥	mittel	als Automation-Zusatz
+<br>Cisco/CCNA-Themen	                            🔥🔥	mittel–hoch	gute Ergänzung
+<br>Maschinelles Lernen / Datenwissenschaft	        🔥	niedrig, für FISI	nicht priorisieren
+<br>Arduino/ESP32	                                  🔥	niedrig	schönes Portfolio-Projekt
 
 
 Das ist keine offizielle Rangliste, sondern eine ROI-Einschätzung aus den aktuell sichtbaren Anforderungen . 
 
 # Beispielsweise verlangt eine aktuelle hessische IT-Stelle 
 
-Microsoft Serverdienste, 
-Windows 10/11, 
-Active Directory und Netzwerktechnik; 
-PowerShell und Azure sind zusätzliche Pluspunkte.
+<br>Microsoft Serverdienste, 
+<br>Windows 10/11, 
+<br>Active Directory und Netzwerktechnik; 
+<br>PowerShell und Azure sind zusätzliche Pluspunkte.
 
 # Eine Aktuelle Systemadministrator-Stelle nennt sogar explizit:
 
@@ -36,14 +36,16 @@ Active Directory · DNS · DHCP · GPO · Azure · M365 · Entra ID · Intune ·
 Client-Administration, Updates, Troubleshooting, Active Directory, Benutzer-/Rechteverwaltung, Inventarisierung und Dokumentation .
 
 
+---------------------------------------------------
+
 
 
 
 ## IPv4 · Subnetting · VLAN · 802.1Q · DHCP · NAT/PAT · Routing · OSPF · IPv6
 
 
-Cisco Packet Tracer – praktische Netzwerkübungen
-Zertifikat
+<br>Cisco Packet Tracer – praktische Netzwerkübungen
+<br>Zertifikat
  .pkt-Dateien
 
 
@@ -104,16 +106,18 @@ Feat
 
 
 
-Scraper für Medimops
+# Scraper für Medimops
 
-Check der Verfügbarkeit und des Preis von spez. Büchern
+<br>Check der Verfügbarkeit und des Preis von spez. Büchern
 
-Scraper für Aliexpress - zum Abrufen der aktuellen Preise
-
-
+<br>Scraper für Aliexpress - zum Abrufen der aktuellen Preise
 
 
 
+
+## SQL
+
+![Logo](https://github.com/SteffenBeckerman/steffenbeckerman/blob/main/SQL%20Island%20-%20Uni%20Kaiserslautern.png)
 
 
 
